@@ -1,4 +1,4 @@
-# fpga_swtich_to_led
+# FPGA Switch To LED
 
 FPGA Project 
 
