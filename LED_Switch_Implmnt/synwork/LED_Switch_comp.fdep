@@ -1,0 +1,15 @@
+#OPTIONS:"|-layerid|0|-orig_srs|C:\\lscc\\iCEcube2.2020.12\\sbt_backend\\Projects\\LED_Switch\\LED_Switch_Implmnt\\synwork\\LED_Switch_comp.srs|-prodtype|synplify_pro|-primux|-fixsmult|-infer_seqShift|-ice|-sdff_counter|-nram|-divnmod|-nostructver|-I|C:\\lscc\\iCEcube2.2020.12\\sbt_backend\\Projects\\LED_Switch\\|-I|C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib|-v2001|-devicelib|C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\generic\\sb_ice40.v|-encrypt|-pro|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-lib|work"
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\bin64\\c_ver.exe":1651802558
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\generic\\sb_ice40.v":1651802561
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\hypermods.v":1651802564
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\umr_capim.v":1651802564
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\scemi_objects.v":1651802564
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\scemi_pipes.svh":1651802564
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\sbt_backend\\Projects\\LED_Switch\\LED_Switch_Implmnt\\sbt\\src\\switch_to_led.v":1651804146
+0			"C:\lscc\iCEcube2.2020.12\sbt_backend\Projects\LED_Switch\LED_Switch_Implmnt\sbt\src\switch_to_led.v" verilog
+#Dependency Lists(Uses List)
+0 -1
+#Dependency Lists(Users Of)
+0 -1
+#Design Unit to File Association
+module work Switches_To_LEDs 0
